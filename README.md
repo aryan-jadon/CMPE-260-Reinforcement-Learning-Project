@@ -34,3 +34,32 @@
 ![Agents](https://github.com/aryan-jadon/CMPE-260-Reinforcement-Learning-Project/blob/main/Screenshots/Training/Screenshot%202022-12-06%20at%209.17.50%20PM.png)
 
 ![Agents](https://github.com/aryan-jadon/CMPE-260-Reinforcement-Learning-Project/blob/main/Screenshots/Training/Screenshot%202022-12-06%20at%209.17.56%20PM.png)
+
+
+#### Environment
+
+![Agents](https://github.com/aryan-jadon/CMPE-260-Reinforcement-Learning-Project/blob/main/Screenshots/Training/Screenshot%202022-12-06%20at%209.18.04%20PM.png)
+
+![Agents](https://github.com/aryan-jadon/CMPE-260-Reinforcement-Learning-Project/blob/main/Screenshots/Training/Screenshot%202022-12-06%20at%209.18.11%20PM.png)
+
+
+#### Losses
+
+![Agents](https://github.com/aryan-jadon/CMPE-260-Reinforcement-Learning-Project/blob/main/Screenshots/Training/Screenshot%202022-12-06%20at%209.18.19%20PM.png)
+
+![Agents](https://github.com/aryan-jadon/CMPE-260-Reinforcement-Learning-Project/blob/main/Screenshots/Training/Screenshot%202022-12-06%20at%209.18.23%20PM.png)
+
+
+#### Policy
+
+![Agents](https://github.com/aryan-jadon/CMPE-260-Reinforcement-Learning-Project/blob/main/Screenshots/Training/Screenshot%202022-12-06%20at%209.18.31%20PM.png)
+
+![Agents](https://github.com/aryan-jadon/CMPE-260-Reinforcement-Learning-Project/blob/main/Screenshots/Training/Screenshot%202022-12-06%20at%209.18.36%20PM.png)
+
+![Agents](https://github.com/aryan-jadon/CMPE-260-Reinforcement-Learning-Project/blob/main/Screenshots/Training/Screenshot%202022-12-06%20at%209.18.41%20PM.png)
+
+![Agents](https://github.com/aryan-jadon/CMPE-260-Reinforcement-Learning-Project/blob/main/Screenshots/Training/Screenshot%202022-12-06%20at%209.18.47%20PM.png)
+
+![Agents](https://github.com/aryan-jadon/CMPE-260-Reinforcement-Learning-Project/blob/main/Screenshots/Training/Screenshot%202022-12-06%20at%209.18.53%20PM.png)
+
+![Agents](https://github.com/aryan-jadon/CMPE-260-Reinforcement-Learning-Project/blob/main/Screenshots/Training/Screenshot%202022-12-06%20at%209.18.59%20PM.png)
